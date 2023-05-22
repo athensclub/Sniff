@@ -1,1 +1,13 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-8d59dc4de5201274e310e4c54b9627a8934c3b88527886e3b421487c677d23eb.svg)](https://classroom.github.com/a/cmbFtiDj)
+## Sniff
+A final project for my PROG METH I class. Sniff is a simple block-coding application inspired by certain application with orange cat.
+
+## Documentation
+You can read the document on how to use the application (in Thai) in this repository or click the link [here](https://github.com/athensclub/Sniff/blob/main/Sniff%20Project.pdf).
+
+## Authors
+There two contributors to this project:
+[athensclub](https://github.com/athensclub) (me)
+[Zenithz99](https://github.com/Zenithz99)
+
+## Releases
+You can find the latest release of sniff [here](https://github.com/athensclub/Sniff/releases/tag/v1.0)
