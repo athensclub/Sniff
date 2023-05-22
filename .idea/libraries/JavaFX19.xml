@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="JavaFX19">
+    <CLASSES>
+      <root url="file://C:/Program Files/Java/javafx-sdk-19.0.2.1/lib" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="https://openjfx.io/javadoc/19/javafx.controls" />
+      <root url="https://openjfx.io/javadoc/19/javafx.base" />
+      <root url="https://openjfx.io/javadoc/19/javafx.fxml" />
+      <root url="https://openjfx.io/javadoc/19/javafx.graphics" />
+      <root url="https://openjfx.io/javadoc/19/javafx.media" />
+      <root url="https://openjfx.io/javadoc/19/javafx.swing" />
+      <root url="https://openjfx.io/javadoc/19/javafx.web" />
+    </JAVADOC>
+    <SOURCES />
+    <jarDirectory url="file://C:/Program Files/Java/javafx-sdk-19.0.2.1/lib" recursive="false" />
+  </library>
+</component>

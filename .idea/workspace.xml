@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="smeen:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f2616b6b-31f5-4892-9e2d-9fb605b7049c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/smeen/global/Fonts.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/smeen/global/Fonts.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/smeen/global/SmeenComponent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/smeen/global/SmeenComponent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/smeen/global/SmeenConstants.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/smeen/global/SmeenConstants.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/smeen/logic/CodeBlockInputSnapHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/smeen/logic/CodeBlockInputSnapHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/smeen/logic/CodeBlockListSnapHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/smeen/logic/CodeBlockListSnapHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/smeen/logic/CodeExecutionHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/smeen/logic/CodeExecutionHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/smeen/logic/DraggingHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/smeen/logic/DraggingHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/smeen/logic/Executable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/smeen/logic/Executable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/smeen/logic/HasEvents.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/smeen/logic/HasEvents.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/smeen/logic/MouseEventsHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/smeen/logic/MouseEventsHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/smeen/logic/SmeenContext.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/smeen/logic/SmeenContext.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/smeen/logic/SnapHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/smeen/logic/SnapHandler.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="2N8rtzm4LJ8sowWRkXPjmpXXvBS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "D:/Chula Study/Year 1/PROG METH/IdeaProjects/sniff-docs",
+    "project.structure.last.edited": "Artifacts",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "project.propCompiler"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="smeen.component" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="smeen.application.Main" />
+      <module name="smeen" />
+      <option name="VM_PARAMETERS" value="--module-path &quot;C:\Program Files\Java\javafx-sdk-19.0.2.1\lib&quot; --add-modules javafx.controls,javafx.fxml" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f2616b6b-31f5-4892-9e2d-9fb605b7049c" name="Changes" comment="" />
+      <created>1679056772840</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1679056772840</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/smeen/logic/CodeBlockListSnapHandler.java</url>
+          <line>76</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
